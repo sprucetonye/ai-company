@@ -9,4 +9,6 @@
 - mkdir homepage
 - sudo rm etc
   
-  ![Git Commands](relative/path/to/image.png)
+  ![Git Commands](./images/git-commands.png)
+  ![Git Commands](./images/terminal_Prime.png)
+  ![Git Commands](./images/repository-details.png)
